@@ -1,6 +1,8 @@
 # HOLON OS 教育訓練手冊
 **CH1 軟體介面介紹**
 
+<img src="homepage.png"  width="450px" />
+
 1. 訊息列表
 1. 製程流程圖
 1. 3D環境互動介面
