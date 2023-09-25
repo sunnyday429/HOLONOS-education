@@ -45,6 +45,7 @@
 |<img src="function block/blockstep1.png"  width="400px" />|在製程流程圖區塊中，點選**Load Blocks**，即可看到畫面中顯示所有功能模塊。|
 |<img src="function block/blockmove.gif"  width="400px" />|**長按**模塊即可刪除不需使用的功能模塊；接著，您可以將模塊拖曳至一旁，方便進行檢視與連線|
 | |拖曳後，根據製程將模塊連線。從模塊起始點連接至另一模塊接收點，**長按**連接線即可刪除連接線。|
+|<img src="function block/blockstep4.png"  width="400px" /> |功能模塊連線完成|
 
 ### CH4 機械手臂連線
 
