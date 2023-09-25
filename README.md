@@ -27,7 +27,7 @@
 
 ### CH3 建立製程
 
-* **模塊功能說明**
+* **功能模塊**
 
 |圖示|說明|圖示|說明|
 |----|----|----|----|
@@ -37,7 +37,16 @@
 |<img src="function block/CallRobot.png"  width="250px" />|機器人程序執行模塊，啟動機器人執行目標程序，確認程序執行完成後，將執行權往下傳遞。|<img src="function block/RobotSetData.png"  width="250px" />|機器人暫存參數設定模塊，依據製程參數設定介面中設定的工單數據，傳遞更新資訊至機器人暫存器。|
 |<img src="function block/RobotViewerSync.png"  width="250px" />|機器人虛實同步模塊，將機器人位置、角度與狀態資訊同步至虛擬環境中，模擬窗格的機器人將與實機同步。|<img src="function block/PathPlanning.png"  width="250px" />|機器人路徑規劃模塊，機器人依當前位置為起始點，規劃路徑至終點，過程中依據最短路徑、姿態最適路徑與無碰撞路徑。|  
   
-* **模塊連線方式**
+* **連線方式**
+
+以Max等級身份進入軟體後，您可以對模塊連線設定進行修改。
+|圖示|說明|
+|----|----|
+|<img src="function block/Init.png"  width="250px" />|123|
+
+在製程流程圖區塊中，點選**Load Blocks**，即可看到畫面顯示所有功能模塊。  
+
+
 
 ### CH4 機械手臂連線
 
